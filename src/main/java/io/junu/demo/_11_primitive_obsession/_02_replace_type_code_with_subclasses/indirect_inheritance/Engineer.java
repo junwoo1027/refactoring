@@ -1,4 +1,4 @@
-package io.junu.demo._11_primitive_obsession._31_replace_type_code_with_subclasses.indirect_inheritance;
+package io.junu.demo._11_primitive_obsession._02_replace_type_code_with_subclasses.indirect_inheritance;
 
 public class Engineer extends EmployeeType {
 
